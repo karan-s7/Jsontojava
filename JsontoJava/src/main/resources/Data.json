@@ -1,0 +1,37 @@
+{
+  "orders": [
+    {
+      "order": {
+        "customer": {
+          "name": "Karan",
+          "email": "Karanin@gmail.com",
+          "phone": "917xxxxxxx"
+        },
+        "shippingAddress": {
+          "street": "Palaniappa street",
+          "city": "Chennai",
+          "zipCode": "600087",
+          "country": "India"
+        },
+        "inventory": [
+          {
+            "itemName": "SmartWatch",
+            "quantity": 10,
+            "totalPrice":10000
+
+          },
+          {
+            "itemName": "Earphone",
+            "quantity": 5,
+            "totalPrice": 500
+
+          }
+        ]
+      }
+
+
+
+    }
+  ]
+}
+
